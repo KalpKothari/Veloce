@@ -2,8 +2,6 @@
 
 Veloce is a modern and fully responsive logistics & cargo transportation website built using **HTML**, **CSS**, and **JavaScript**. It represents a professional logistics service provider offering fast, secure, and efficient delivery solutions across the globe.
 
----
-
 ### Features
 
 - Professional & modern UI design
@@ -20,8 +18,6 @@ Veloce is a modern and fully responsive logistics & cargo transportation website
 - Smooth animations and interactive UI
 - Fully responsive across all devices
 
----
-
 ### Tech Stack Used
 
 | Technology | Usage |
@@ -30,8 +26,6 @@ Veloce is a modern and fully responsive logistics & cargo transportation website
 | CSS3 | Styling & responsiveness |
 | JavaScript | Interactivity & animations |
 | Ionicons | Professional icon set |
-
----
 
 ### Business Overview
 
@@ -45,15 +39,11 @@ Veloce provides transportation and logistics solutions including:
 
 > **Fast, secure & reliable delivery - to every direction.**
 
----
-
 ### Responsive Design
 
 - Multi-device support
 - Optimized layout for mobile, tablet & desktop
 - Modern UI/UX approach
-
----
 
 ### Future Enhancements
 
@@ -61,8 +51,6 @@ Veloce provides transportation and logistics solutions including:
 ✔ Customer login & booking system  
 ✔ Backend database integration  
 ✔ Chatbot for customer support  
-
----
 
 ### Developed By
 
